@@ -1,0 +1,87 @@
+question,context,ground_truth
+What is the potential risk to the $1.6 trillion in auto loans currently on financial institution balance sheets?,"The textual content mentions that interest rate hikes have increased monthly car loan payments by around 27%, from $581 to $739, leading to a record high number of subprime auto loans delinquent by 60+ days. It also references Wright's Law, predicting that electric vehicle (EV) prices should continue to fall, shifting more miles onto electric platforms and decreasing the value of gas-powered vehicles. Consequently, the slide warns that the approximately $1.6 trillion in auto loans currently on financial institution balance sheets, which are predominantly for gas-powered vehicles, could be at risk over the next 10 years.
+
+Please note that this description is based on a visual analysis of the image and the text contained within it. The actual data or specific values are not fully extractable due to the resolution of the image.","The potential risk to the $1.6 trillion in auto loans on financial institution balance sheets is multifaceted. Firstly, the increase in interest rates leading to higher monthly car loan payments could result in a higher default rate, especially among subprime borrowers who are already showing signs of strain with a record number of loans delinquent by 60+ days. This could lead to significant credit losses for lenders. Secondly, as Wright's Law predicts a decrease in EV prices, the shift towards electric platforms may reduce the resale value of gas-powered vehicles, which could exacerbate loan-to-value ratios on existing auto loans. This devaluation risk could lead to further losses for financial institutions if borrowers default and the collateral (the gas-powered vehicle) is worth less than the outstanding loan balance. Over the next decade, these factors could combine to create substantial financial instability for lenders with heavy exposure to auto loans, particularly those concentrated in gas-powered vehicles."
+What is the cost reduction in drone delivery price for a 10-mile trip under the scenario with a visual observer?,"2. Drone Delivery Price (10-mile Trip):
+   - This section presents a line graph showing the cost reduction in drone delivery price for a 10-mile trip under three different scenarios:
+     - With Line-Of-Sight: Approximately $24
+     - With Visual Observer: Approximately $12 (a reduction of about 50% from line-of-sight)
+     - Autonomous: Approximately $0.35 (a reduction of about 90% from with visual observer)
+
+The bottom of the image includes a disclaimer noting that the numbers are rounded and that the analysis by ARK Investment Management LLC is based on underlying data from external sources as of December 7, 2023. It is mentioned that the information is for informational purposes only and should not be considered investment advice or a recommendation to buy, sell, or hold any particular security, and that past performance is not indicative of future results.","The cost reduction in drone delivery price for a 10-mile trip under the scenario with a visual observer is approximately $12, which represents about a 50% reduction from the cost with line-of-sight."
+What are the top three themes in the portfolio and their respective percentages?,"Portfolio Composition by Themes (with respective percentages of the portfolio):
+1. Next Gen Cloud - 19.9%
+2. Intelligent Devices - 16.1%
+3. Neural Networks - 12.2%
+4. Precision Therapies - 9.9%
+5. Digital Wallets - 8.8%
+6. Multiomic Technologies - 8.5%
+7. Digital Assets - 6.9%
+8. Smart Contracts - 5.6%
+9. Autonomous Mobility - 4.8%
+10. Advanced Battery Technologies - 3.7%
+11. Programmable Biology - 2.1%
+12. Adaptive Robotics - 1.5%
+
+Sectors (with respective percentages of the portfolio):
+1. Information Technology - 29.4%
+2. Health Care - 22.4%
+3. Financials - 20.6%
+4. Communication Services - 13.6%
+5. Consumer Discretionary - 10.5%
+6. Materials - 2.3%","The top three themes in the portfolio are Next Gen Cloud with 19.9%, Intelligent Devices with 16.1%, and Neural Networks with 12.2%."
+Which technologies are included in the first wave and when do they peak?,"The image you've provided appears to be an infographic displaying the ""Estimated Economic Impact of General Purpose Technologies"" over time, from the 1770s to a forecasted period into 2030. The infographic illustrates how different technological innovations have contributed annual percentage points to real GDP growth and consumer surplus.
+
+The chart is a visual representation with a timeline on the horizontal axis, beginning in the 1770s and extending to a forecasted period labeled as ""2030 F."" The vertical axis represents the economic impact, with markers at -2, 3, 8, 13, and 18 percentage points.
+
+Technologies are grouped into waves, each represented by a colored area on the chart, peaking at different times:
+
+1. The first wave includes the Steam Engine, Railroads, Telegraph, Photography, and Bicycle, with peaks around the 1830s and the 1870s.","The first wave of general purpose technologies includes the Steam Engine, Railroads, Telegraph, Photography, and Bicycle. These technologies peaked around the 1830s and the 1870s, as indicated by the infographic."
+What does the disclaimer at the bottom of the chart state?,"The chart is accompanied by a disclaimer at the bottom, which notes that the analysis is based on various sources and should not be considered investment advice or a recommendation to buy, sell, or hold any particular security. It also mentions that the technologies are assumed to have the same diffusion and realization cycle, and if recent technologies are assumed to diffuse more quickly, the current wave would appear steeper.
+
+The source of the infographic is cited as ""ARK Investment Management LLC, 2024,"" and there's a note about the use of GPT (General Purpose Technology) prompting to survey a list of technologies and assess their economic impact.
+
+Please note that the infographic contains additional disclaimers and notes that are too small to read in the image provided.","The disclaimer at the bottom of the chart states that the analysis is based on various sources and should not be considered as investment advice or a recommendation to buy, sell, or hold any particular security. It also indicates that the technologies are assumed to have the same diffusion and realization cycle, and that if recent technologies are assumed to diffuse more quickly, the current wave would appear steeper. Additionally, the source of the infographic is 'ARK Investment Management LLC, 2024', and there is a mention of the use of GPT to survey a list of technologies and assess their economic impact. There are also additional disclaimers and notes that are too small to read in the image provided."
+What does the note at the bottom of the graph state about the forecasts and past performance?,"There are two dotted forecast lines extending into the future:
+
+- If the forecast is well-tuned, the expectation continues to decrease steadily.
+- If forecast error continues, the line shows a more fluctuating trend but still indicates a decreasing number of years expected until the launch of general AI.
+
+The graph has a note at the bottom stating that the source is ""ARK Investment Management LLC, 2024, based on data from Metaculus, including benchmark details, as of January 3, 2024."" It mentions that the benchmarks require successful completion of various tasks and cautions that the forecasts are inherently limited and not to be considered investment advice or a recommendation to buy, sell, or hold any particular security. It also states that past performance is not indicative of future results.
+
+The company's logo is present at the bottom left corner of the image.","The note at the bottom of the graph indicates that the forecasts provided by ARK Investment Management LLC are based on data from Metaculus as of January 3, 2024, and include benchmark details that require successful completion of various tasks. The note cautions that these forecasts are inherently limited and should not be considered as investment advice or a recommendation to buy, sell, or hold any particular security. Additionally, it emphasizes that past performance is not indicative of future results, meaning that the historical trends depicted in the graph should not be relied upon as a guarantee of future performance."
+What does the bar chart titled 'The Number of AI Mentions Tripled On Earnings Calls' compare?,"The graph indicates that ChatGPT experienced a steep increase in users, reaching 100 million much faster than the other platforms listed.
+
+2. On the right, there is a bar chart titled ""The Number of AI Mentions Tripled On Earnings Calls."" This chart compares the number of times AI is mentioned on earnings calls before and after the introduction of ChatGPT. The data is divided into quarters from Q4'21 to Q3'23, with bars representing different companies:
+   - Alphabet (orange)
+   - Apple (blue)
+   - Amazon (dark blue)
+   - Meta (formerly Facebook, in purple)
+   - Microsoft (black)
+
+The chart shows an increase in the number of mentions post-ChatGPT, as indicated by the dotted lines above the bars. The average number of mentions has tripled after ChatGPT's introduction, as the title of the chart suggests.","The bar chart titled 'The Number of AI Mentions Tripled On Earnings Calls' compares the frequency of artificial intelligence (AI) mentions on earnings calls by different companies across various quarters. Specifically, it shows the number of times AI was mentioned in the earnings calls of Alphabet, Apple, Amazon, Meta, and Microsoft from Q4'21 to Q3'23. The chart highlights the change in the number of AI mentions before and after the introduction of ChatGPT, with a noticeable increase in mentions post-ChatGPT, as evidenced by the dotted lines above the bars, indicating that the average number of mentions has tripled following ChatGPT's introduction."
+What is the productivity impact of AI on coding tasks using GitHub Copilot in 2023?,"The image shows a presentation slide with the title ""AI Already Has Boosted Productivity Significantly."" The slide discusses how coding assistants like GitHub Copilot and Replit AI have improved the productivity and job satisfaction of software developers. It mentions that AI-powered assistants are increasing the performance of knowledge workers, particularly helping underperforming workers more than high performers.
+
+The slide contains two bar graphs illustrating the productivity impact of AI on different professional tasks in 2023:
+
+1. Productivity of Developers On Coding Tasks Using Github Copilot in 2023:
+   - Without Copilot: 1x baseline
+   - With Copilot: 2.2x the baseline","According to the information provided in the presentation slide titled 'AI Already Has Boosted Productivity Significantly,' the productivity impact of AI on coding tasks using GitHub Copilot in 2023 is substantial. The slide indicates that developers using GitHub Copilot are experiencing a productivity increase to 2.2 times the baseline compared to those not using the AI assistant. This suggests that GitHub Copilot has more than doubled the productivity of developers on coding tasks. Additionally, the slide notes that AI-powered assistants like GitHub Copilot are not only improving overall productivity but also enhancing job satisfaction among software developers, with a more pronounced benefit for underperforming workers."
+What does the disclaimer on the slide mention about the data used to analyze productivity?,"The slide includes a disclaimer at the bottom that the data used to analyze productivity were collected from various studies with different numbers of participants and definitions of task quality. It also states that the sources used are Dell’Acqua et al. 2023 and GitHub 2022, and that forecasts are inherently limited and should not be considered investment advice or a recommendation to buy, sell, or hold any particular security. The disclaimer also notes that past performance is not indicative of future results.","The disclaimer on the slide mentions that the data used to analyze productivity were collected from various studies, which had different numbers of participants and definitions of task quality. It cites Dell’Acqua et al. 2023 and GitHub 2022 as the sources of the data. Additionally, the disclaimer warns that forecasts are inherently limited and should not be taken as investment advice or a recommendation to buy, sell, or hold any particular security, and it reminds viewers that past performance does not guarantee future results."
+What do the labeled points on the graph indicate?,"Both points are labeled with ""Median GRE Analytic Writing"" for the GPT4 32k data point, and ""Top Decile GRE Analytic Writing"" for the Claude 2 data point, possibly indicating that these points correspond to the writing quality levels of Large Language Models (LLMs).
+
+A note below the graph reads ""Post 1997 assumes constant words per employed writer over time.""
+
+The footer of the image states that the source is ""ARK Investment Management LLC, 2024"" and includes a disclaimer that the analysis is based on data sources as of January 9, 2024, is for informational purposes only, and should not be considered investment advice or a recommendation to buy, sell, or hold any particular security. It also cautions that past performance is not indicative of future results.","The labeled points on the graph represent benchmarks for the writing quality levels of Large Language Models (LLMs), with one point indicating the 'Median GRE Analytic Writing' score for the GPT4 32k data point, and the other showing the 'Top Decile GRE Analytic Writing' score for the Claude 2 data point. These benchmarks are likely used to illustrate the capabilities of LLMs in comparison to human writing standards. The note below the graph suggests that the analysis assumes a constant number of words produced per employed writer since 1997, which could be relevant for understanding trends in productivity or efficiency in writing-related tasks. The source information indicates that the data is provided by ARK Investment Management LLC and is current as of January 9, 2024. The disclaimer advises that the information is for educational purposes and should not be construed as investment advice, while also reminding viewers that past performance does not guarantee future results."
+What does the green area chart represent in the given context?,"- The green area chart represents the share of ""Text Games"" over time from 1971 to approximately 2005. It shows a high share in the early 1970s, which quickly diminishes to nearly 0% by the late 1980s.
+- The blue line chart shows the ""Gaming Revenue"" and indicates a steady increase from 1971 to 2005, starting at under $5 billion and ending near $35 billion.
+- A note clarifies that ""Text games"" include both text-based and spreadsheet-based games, and ""All Other Games"" excludes arcade game releases. It also notes that the revenue captures PC and console gaming revenue only.
+
+2. Gross Platform Monetization Rates:
+This section presents a bar chart comparing net monetization per hour for different platforms in USD:
+
+- Text-based AI: $0.0016
+- Streamed Video: $0.07
+- Streamed Audio: $0.15
+- Video Games: $0.23
+- Dating Apps: $1.40","The green area chart represents the market share of 'Text Games' within the gaming industry over time, from 1971 to approximately 2005. It illustrates the initial dominance of text-based and spreadsheet-based games in the early 1970s, which then experiences a significant decline, eventually representing an almost negligible portion of the market by the late 1980s. This decline is juxtaposed against the overall growth of the gaming industry's revenue, as indicated by the blue line chart."
